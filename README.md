@@ -1,6 +1,6 @@
 # GRACE-SeDA: Self-supervised data assimilation model for downscaling GRACE(-FO) measurements.
 
-The core codes for the algorithm presented in our paper [Global high-resolution total water storage anomalies from self-supervised data assimilation using deep learning algorithms](https://doi.org/10.21203/rs.3.rs-2583166/v2).
+The core codes for the algorithm presented in our paper [Global high-resolution total water storage anomalies from self-supervised data assimilation using deep learning algorithms](https://doi.org/10.1038/s44221-024-00194-w).
 
 The product (April 2002 to December 2019) is available at [https://doi.org/10.3929/ethz-b-000648738](https://doi.org/10.3929/ethz-b-000648738).
 
