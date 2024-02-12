@@ -9,3 +9,6 @@ The core codes for our model are included in *./code_v2019*.
 The trained model and weights for our paper are provided in *./model*.
 
 Contact: Junyang Gou ([jungou@ethz.ch](jungou@ethz.ch))
+
+## News
+2024-02-12: Our paper is published in [Nature Water](https://doi.org/10.1038/s44221-024-00194-w)
